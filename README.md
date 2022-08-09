@@ -1,2 +1,1 @@
-# deployinheroku
-deployment in heroku
+#deploy in Heroku
